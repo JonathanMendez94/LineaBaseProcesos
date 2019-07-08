@@ -1,2 +1,0 @@
-# LineaBaseProcesos
-Linea Base
